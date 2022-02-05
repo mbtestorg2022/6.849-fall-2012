@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Class 9: Pleat Folding\t\t\t\t"
+title: 'Class 9: Pleat Folding    '
 uid: 9d1a3d37-ba91-b6cb-3ed1-3fc33f7d0a12
 video_files:
   archive_url: https://archive.org/download/MIT6.849F12/MIT6_849F12_class09_300k.mp4

@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Class 7: Origami is Hard\t\t\t\t"
+title: 'Class 7: Origami is Hard    '
 uid: ba128113-387b-ad02-d5fb-d0d8fd063c9e
 video_files:
   archive_url: https://archive.org/download/MIT6.849F12/MIT6_849F12_class07_300k.mp4

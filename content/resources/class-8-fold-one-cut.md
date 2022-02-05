@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Class 8: Fold & One Cut\t\t\t\t"
+title: 'Class 8: Fold & One Cut    '
 uid: a6a020bc-3ad7-752c-2f7b-8b541245e455
 video_files:
   archive_url: https://archive.org/download/MIT6.849F12/MIT6_849F12_class08_300k.mp4
