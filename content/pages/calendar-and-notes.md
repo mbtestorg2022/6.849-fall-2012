@@ -35,7 +35,7 @@ CLASS RESOURCES
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Lecture 1 (PDF - 5.4MB)]({{< baseurl >}}/resources/mit6_849f12_l01)
+[Notes for Lecture 1 (PDF - 5.4MB)]({{< baseurl >}}/resources/mit6_849f12_l01)
 
 [Slides for Lecture 1 (PDF - 11.9MB)](/ans7870/6/6.849/F12/MIT6_849F12_slidesL01.pdf)
 
@@ -46,7 +46,7 @@ Video of Lecture 1 (optional)
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Class 1 (PDF - 4.4MB)]({{< baseurl >}}/resources/mit6_849f12_c01)
+[Notes for Class 1 (PDF - 4.4MB)]({{< baseurl >}}/resources/mit6_849f12_c01)
 
 [Slides for Class 1 (PDF - 2.9MB)]({{< baseurl >}}/resources/mit6_849f12_slidesc01)
 
@@ -76,7 +76,7 @@ Video of Class 1
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Lecture 2 (PDF - 6.2MB)]({{< baseurl >}}/resources/mit6_849f12_l02)
+[Notes for Lecture 2 (PDF - 6.2MB)]({{< baseurl >}}/resources/mit6_849f12_l02)
 
 [Slides for Lecture 2 (PDF)]({{< baseurl >}}/resources/mit6_849f12_slidesl02)
 
@@ -87,7 +87,7 @@ Video of Lecture 2
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Class 2 (PDF - 3.0MB)]({{< baseurl >}}/resources/mit6_849f12_c02)
+[Notes for Class 2 (PDF - 3.0MB)]({{< baseurl >}}/resources/mit6_849f12_c02)
 
 [Slides for Class 2 (PDF - 2.9MB)]({{< baseurl >}}/resources/mit6_849f12_slidesc02)
 
@@ -113,7 +113,7 @@ Video of Class 2
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Lecture 3 (PDF - 5.4MB)]({{< baseurl >}}/resources/mit6_849f12_l03)
+[Notes for Lecture 3 (PDF - 5.4MB)]({{< baseurl >}}/resources/mit6_849f12_l03)
 
 [Slides for Lecture 3 (PDF)]({{< baseurl >}}/resources/mit6_849f12_slidesl03)
 
@@ -124,7 +124,7 @@ Video of Lecture 3
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Class 3 (PDF - 2.4MB)]({{< baseurl >}}/resources/mit6_849f12_c03)
+[Notes for Class 3 (PDF - 2.4MB)]({{< baseurl >}}/resources/mit6_849f12_c03)
 
 [Slides for Class 3 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit6_849f12_slidesc03)
 
@@ -150,7 +150,7 @@ Video of Class 3
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Lecture 4 (PDF - 5.4MB)]({{< baseurl >}}/resources/mit6_849f12_l04)
+[Notes for Lecture 4 (PDF - 5.4MB)]({{< baseurl >}}/resources/mit6_849f12_l04)
 
 [Slides for Lecture 4 (PDF - 1.8MB)]({{< baseurl >}}/resources/mit6_849f12_slidesl04)
 
@@ -161,7 +161,7 @@ Video of Lecture 4
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Class 4 (PDF - 2.7MB)]({{< baseurl >}}/resources/mit6_849f12_c04)
+[Notes for Class 4 (PDF - 2.7MB)]({{< baseurl >}}/resources/mit6_849f12_c04)
 
 [Slides for Class 4 (PDF - 6.7MB)]({{< baseurl >}}/resources/mit6_849f12_slidesc04)
 
@@ -198,7 +198,7 @@ _Slides and video courtesy of Jason Ku. Used with permission._
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Class 5 (PDF)]({{< baseurl >}}/resources/mit6_849f12_c05)
+[Notes for Class 5 (PDF)]({{< baseurl >}}/resources/mit6_849f12_c05)
 
 [Slides for Class 5 (PDF - 6.0MB)]({{< baseurl >}}/resources/mit6_849f12_slidesc05)
 
@@ -235,7 +235,7 @@ _Slides and video courtesy of Tomohiro Tachi. Used with permission._
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Class 6 (PDF - 2.1MB)]({{< baseurl >}}/resources/mit6_849f12_c06)
+[Notes for Class 6 (PDF - 2.1MB)]({{< baseurl >}}/resources/mit6_849f12_c06)
 
 [Slides for Class 6 (PDF - 2.6MB)]({{< baseurl >}}/resources/mit6_849f12_slidesc06)
 
@@ -263,7 +263,7 @@ Video of Class 6
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Lecture 7 (PDF - 5.1MB)]({{< baseurl >}}/resources/mit6_849f12_l07)
+[Notes for Lecture 7 (PDF - 5.1MB)]({{< baseurl >}}/resources/mit6_849f12_l07)
 
 [Slides for Lecture 7 (PDF - 11.2MB)](/ans7870/6/6.849/F12/MIT6_849F12_slidesL07.pdf)
 
@@ -274,7 +274,7 @@ Video of Lecture 7
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Class 7 (PDF - 2.7MB)]({{< baseurl >}}/resources/mit6_849f12_c07)
+[Notes for Class 7 (PDF - 2.7MB)]({{< baseurl >}}/resources/mit6_849f12_c07)
 
 [Slides for Class 7 (PDF - 2.1MB)]({{< baseurl >}}/resources/mit6_849f12_slidesc07)
 
@@ -300,7 +300,7 @@ Video of Class 7
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Lecture 8 (PDF- 7.1MB)]({{< baseurl >}}/resources/mit6_849f12_l08)
+[Notes for Lecture 8 (PDF- 7.1MB)]({{< baseurl >}}/resources/mit6_849f12_l08)
 
 [Slides for Lecture 8 (PDF)]({{< baseurl >}}/resources/mit6_849f12_slidesl08)
 
@@ -311,7 +311,7 @@ Video of Lecture 8
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Class 8 (PDF - 3.0MB)]({{< baseurl >}}/resources/mit6_849f12_c08)
+[Notes for Class 8 (PDF - 3.0MB)]({{< baseurl >}}/resources/mit6_849f12_c08)
 
 [Slides for Class 8 (PDF - 1.7MB)]({{< baseurl >}}/resources/mit6_849f12_slidesc08)
 
@@ -337,7 +337,7 @@ Video of Class 8
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Lecture 9 (PDF - 6.3MB)]({{< baseurl >}}/resources/mit6_849f12_l09)
+[Notes for Lecture 9 (PDF - 6.3MB)]({{< baseurl >}}/resources/mit6_849f12_l09)
 
 [Slides for Lecture 9 (PDF - 2.4MB)]({{< baseurl >}}/resources/mit6_849f12_slidesl09)
 
@@ -348,7 +348,7 @@ Video of Lecture 9
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Class 9 (PDF - 3.5MB)]({{< baseurl >}}/resources/mit6_849f12_c09)
+[Notes for Class 9 (PDF - 3.5MB)]({{< baseurl >}}/resources/mit6_849f12_c09)
 
 [Slides for Class 9 (PDF)]({{< baseurl >}}/resources/mit6_849f12_slidesc09)
 
@@ -378,7 +378,7 @@ Video of Class 9
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Lecture 10 (PDF - 6.3MB)]({{< baseurl >}}/resources/mit6_849f12_l10)
+[Notes for Lecture 10 (PDF - 6.3MB)]({{< baseurl >}}/resources/mit6_849f12_l10)
 
 [Slides for Lecture 10 (PDF)]({{< baseurl >}}/resources/mit6_849f12_slidesl10)
 
@@ -389,7 +389,7 @@ Video of Lecture 10
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Class 10 (PDF - 2.7MB)]({{< baseurl >}}/resources/mit6_849f12_c10)
+[Notes for Class 10 (PDF - 2.7MB)]({{< baseurl >}}/resources/mit6_849f12_c10)
 
 [Slides for Class 10 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit6_849f12_slidesc10)
 
@@ -415,7 +415,7 @@ Video of Class 10
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Lecture 11 (PDF - 8.0MB)]({{< baseurl >}}/resources/mit6_849f12_l11)
+[Notes for Lecture 11 (PDF - 8.0MB)]({{< baseurl >}}/resources/mit6_849f12_l11)
 
 [Slides for Lecture 11 (PDF - 1.3MB)]({{< baseurl >}}/resources/mit6_849f12_slidesl11)
 
@@ -424,7 +424,7 @@ Video of Lecture 11
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Class 11 (PDF - 3.2MB)]({{< baseurl >}}/resources/mit6_849f12_c11)
+[Notes for Class 11 (PDF - 3.2MB)]({{< baseurl >}}/resources/mit6_849f12_c11)
 
 [Slides for Class 11 (PDF)]({{< baseurl >}}/resources/mit6_849f12_slidesc11)
 
@@ -452,7 +452,7 @@ Video of Class 11
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Lecture 12 (PDF - 6.9MB)]({{< baseurl >}}/resources/mit6_849f12_l12)
+[Notes for Lecture 12 (PDF - 6.9MB)]({{< baseurl >}}/resources/mit6_849f12_l12)
 
 [Slides for Lecture 12 (PDF)]({{< baseurl >}}/resources/mit6_849f12_slidesl12)
 
@@ -463,7 +463,7 @@ Video of Lecture 12
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Class 12 (PDF)]({{< baseurl >}}/resources/mit6_849f12_c12)
+[Notes for Class 12 (PDF)]({{< baseurl >}}/resources/mit6_849f12_c12)
 
 [Slides for Class 12 (PDF)]({{< baseurl >}}/resources/mit6_849f12_slidesc12)
 
@@ -489,7 +489,7 @@ Video of Class 12
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Lecture 13 (PDF - 6.8MB)]({{< baseurl >}}/resources/mit6_849f12_l13)
+[Notes for Lecture 13 (PDF - 6.8MB)]({{< baseurl >}}/resources/mit6_849f12_l13)
 
 [Slides for Lecture 13 (PDF - 17.8MB)](/ans7870/6/6.849/F12/MIT6_849F12_slidesL13.pdf)
 
@@ -500,7 +500,7 @@ Video of Lecture 13
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Class 13 (PDF - 3.5MB)]({{< baseurl >}}/resources/mit6_849f12_c13)
+[Notes for Class 13 (PDF - 3.5MB)]({{< baseurl >}}/resources/mit6_849f12_c13)
 
 [Slides for Class 13 (PDF)]({{< baseurl >}}/resources/mit6_849f12_slidesc13)
 
@@ -526,7 +526,7 @@ Video of Class 13
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Lecture 14 (PDF - 7.3MB)]({{< baseurl >}}/resources/mit6_849f12_l14)
+[Notes for Lecture 14 (PDF - 7.3MB)]({{< baseurl >}}/resources/mit6_849f12_l14)
 
 [Slides for Lecture 14 (PDF)]({{< baseurl >}}/resources/mit6_849f12_slidesl14)
 
@@ -537,7 +537,7 @@ Video of Lecture 14
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Class 14 (PDF - 2.6MB)]({{< baseurl >}}/resources/mit6_849f12_c14)
+[Notes for Class 14 (PDF - 2.6MB)]({{< baseurl >}}/resources/mit6_849f12_c14)
 
 [Slides for Class 14 (PDF - 2.2MB)]({{< baseurl >}}/resources/mit6_849f12_slidesc14)
 
@@ -563,7 +563,7 @@ Video of Class 14
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Lecture 15 (PDF - 7.0MB)]({{< baseurl >}}/resources/mit6_849f12_l15)
+[Notes for Lecture 15 (PDF - 7.0MB)]({{< baseurl >}}/resources/mit6_849f12_l15)
 
 [Slides for Lecture 15 (PDF)]({{< baseurl >}}/resources/mit6_849f12_slidesl15)
 
@@ -574,7 +574,7 @@ Video of Lecture 15
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Class 15 (PDF - 3.6MB)]({{< baseurl >}}/resources/mit6_849f12_c15)
+[Notes for Class 15 (PDF - 3.6MB)]({{< baseurl >}}/resources/mit6_849f12_c15)
 
 [Slides for Class 15 (PDF - 2.8MB)]({{< baseurl >}}/resources/mit6_849f12_slidesc15)
 
@@ -600,7 +600,7 @@ Video of Class 15
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Lecture 16 (PDF - 6.8MB)]({{< baseurl >}}/resources/mit6_849f12_l16)
+[Notes for Lecture 16 (PDF - 6.8MB)]({{< baseurl >}}/resources/mit6_849f12_l16)
 
 [Slides for Lecture 16 (PDF - 1.4MB)]({{< baseurl >}}/resources/mit6_849f12_slidesl16)
 
@@ -611,7 +611,7 @@ Video of Lecture 16
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Class 16 (PDF - 2.4MB)]({{< baseurl >}}/resources/mit6_849f12_c16)
+[Notes for Class 16 (PDF - 2.4MB)]({{< baseurl >}}/resources/mit6_849f12_c16)
 
 [Slides for Class 16 (PDF - 1.5MB)]({{< baseurl >}}/resources/mit6_849f12_slidesc16)
 
@@ -637,7 +637,7 @@ Video of Class 16
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Lecture 17 (PDF - 7.0MB)]({{< baseurl >}}/resources/mit6_849f12_l17)
+[Notes for Lecture 17 (PDF - 7.0MB)]({{< baseurl >}}/resources/mit6_849f12_l17)
 
 [Slides for Lecture 17 (PDF)]({{< baseurl >}}/resources/mit6_849f12_slidesl17)
 
@@ -648,7 +648,7 @@ Video of Lecture 17
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Class 17 (PDF - 2.6MB)]({{< baseurl >}}/resources/mit6_849f12_c17)
+[Notes for Class 17 (PDF - 2.6MB)]({{< baseurl >}}/resources/mit6_849f12_c17)
 
 [Slides for Class 17 (PDF)]({{< baseurl >}}/resources/mit6_849f12_slidesc17)
 
@@ -674,7 +674,7 @@ _Watch origami documentary_ [_Between The Folds_](http://www.greenfusefilms.com/
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Lecture 18 (PDF - 5.7MB)]({{< baseurl >}}/resources/mit6_849f12_l18)
+[Notes for Lecture 18 (PDF - 5.7MB)]({{< baseurl >}}/resources/mit6_849f12_l18)
 
 [Slides for Lecture 18 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit6_849f12_slidesl18)
 
@@ -705,7 +705,7 @@ No class resources for this session
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Lecture 19 (PDF - 7.5MB)]({{< baseurl >}}/resources/mit6_849f12_l19)
+[Notes for Lecture 19 (PDF - 7.5MB)]({{< baseurl >}}/resources/mit6_849f12_l19)
 
 [Slides for Lecture 19 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit6_849f12_slidesl19)
 
@@ -716,7 +716,7 @@ Video of Lecture 19
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Class 19 (PDF - 1.6MB)]({{< baseurl >}}/resources/mit6_849f12_c19)
+[Notes for Class 19 (PDF - 1.6MB)]({{< baseurl >}}/resources/mit6_849f12_c19)
 
 [Slides for Class 19 (PDF - 1.7MB)]({{< baseurl >}}/resources/mit6_849f12_slidesc19)
 
@@ -743,13 +743,13 @@ _This class covers both L20, and L21 (optional)_.
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Lecture 20 (PDF - 9.4MB)]({{< baseurl >}}/resources/mit6_849f12_l20)
+[Notes for Lecture 20 (PDF - 9.4MB)]({{< baseurl >}}/resources/mit6_849f12_l20)
 
 [Slides for Lecture 20 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit6_849f12_slidesl20)
 
 Video of Lecture 20
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Lecture 21 (PDF - 8.4MB)]({{< baseurl >}}/resources/mit6_849f12_l21)
+[Notes for Lecture 21 (PDF - 8.4MB)]({{< baseurl >}}/resources/mit6_849f12_l21)
 
 [Slides for Lecture 21 (PDF)]({{< baseurl >}}/resources/mit6_849f12_slidesl21)
 
@@ -760,7 +760,7 @@ Video of Lecture 21
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Class 20 (PDF - 5.7MB)]({{< baseurl >}}/resources/mit6_849f12_c20)
+[Notes for Class 20 (PDF - 5.7MB)]({{< baseurl >}}/resources/mit6_849f12_c20)
 
 [Slides for Class 20 (PDF - 1.3MB)]({{< baseurl >}}/resources/mit6_849f12_slidesc20)
 
