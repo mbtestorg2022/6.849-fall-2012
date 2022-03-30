@@ -8,6 +8,7 @@ image_metadata:
     an overview of the course.
   credit: Courtesy of Erik Demaine.
   image-alt: Professor in front of blackboard.
+parent_uid: c03eec62-c472-53f8-d010-100a83b91515
 resourcetype: Image
 title: 6-849_openProblem.jpg
 uid: 1d692570-e6dd-f2b6-bf17-e3197fb0e363

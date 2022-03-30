@@ -8,6 +8,7 @@ image_metadata:
     his talk about his area of research.
   credit: Courtesy of Tomohiro Tachi.
   image-alt: Guest lecturer with origami models.
+parent_uid: bb556ca9-16bd-4a4b-a9d2-0444d3664e04
 resourcetype: Image
 title: 6-849_guestTachi.jpg
 uid: d8eb83d7-8c26-632a-0a35-67d3e84ea6e7

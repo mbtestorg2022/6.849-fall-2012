@@ -41,7 +41,7 @@ Curriculum Information
 
 ### Prerequisites
 
-[_6.046J/18.410J Design and Analysis of Algorithms_](/courses/6-046j-design-and-analysis-of-algorithms-spring-2012/), or equivalent background in discrete mathematics and algorithms. Alternatively, permission from the instructor.
+[_6.046J/18.410J Design and Analysis of Algorithms_](/courses/6-046j-design-and-analysis-of-algorithms-spring-2012), or equivalent background in discrete mathematics and algorithms. Alternatively, permission from the instructor.
 
 ### Requirements Satisfied
 
